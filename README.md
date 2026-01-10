@@ -17,7 +17,7 @@ PLEASE READ CAREFULLY BEFORE USE:
 This software is provided for EDUCATIONAL PURPOSES ONLY. The developer assumes NO LIABILITY and is NOT RESPONSIBLE for any misuse or damage caused by this program.
 You must strictly obey all applicable local, state, and federal laws. DO NOT use this software on devices you do not own or do not have explicit permission to test on. Malicious use without consent is illegal.
 
-# Features
+## Features
 
 1. Camera Manager: Capture photos using the Front or Back camera with custom quality settings.
 
