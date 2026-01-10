@@ -16,6 +16,8 @@ Bu layihədən istifadə edən hər bir şəxs yerli və beynəlxalq qanunverici
 
 qiRAT is a simple Remote Administration Tool (RAT) developed specifically for educational usage, cybersecurity research, and malware analysis. It serves as a practical example of client-server architecture, TCP socket programming, and Android security testing.
 
+This application was developed by a single person. The goal is to understand the Client Server structure in malicious software and to develop new protection tactics and write rules against them.
+
 ## Legal Disclaimer
 PLEASE READ CAREFULLY BEFORE USE:
 This software is provided for EDUCATIONAL PURPOSES ONLY. The developer assumes NO LIABILITY and is NOT RESPONSIBLE for any misuse or damage caused by this program.
