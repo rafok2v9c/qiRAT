@@ -1,4 +1,3 @@
-![Repo Size](https://img.shields.io/github/repo-size/rafigk2v9c/qiRAT)
 ![Stars](https://img.shields.io/github/stars/rafigk2v9c/qiRAT?style=social)
 ![Forks](https://img.shields.io/github/forks/rafigk2v9c/qiRAT?style=social)
 ![Issues](https://img.shields.io/github/issues/rafigk2v9c/qiRAT)
