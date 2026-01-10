@@ -29,3 +29,21 @@ You must strictly obey all applicable local, state, and federal laws. DO NOT use
 
 5. Applications: Access the device's applications list.
 
+## System Requirements
+
+### For the Controller (Server)
+
+OS: Windows 10 or Windows 11.
+
+Framework: .NET Framework 4.7.2 or higher.
+
+Dependencies: Java Runtime Environment (JRE) - Required for the APK Builder to function.
+
+### For the Target (Client)
+OS: Android 5.0 to Android 14+.
+
+Permissions: Requires standard permissions depending on features used.
+
+
+
+
