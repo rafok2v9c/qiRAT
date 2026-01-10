@@ -63,6 +63,10 @@ You must strictly obey all applicable local, state, and federal laws. DO NOT use
 
 <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_7.png?raw=true" width="600" height="350" />
 
+### APK Builder
+
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_11.png?raw=true" width="600" height="350" />
+
 
 ## System Requirements
 
@@ -78,6 +82,8 @@ Dependencies: Java Runtime Environment (JRE) - Required for the APK Builder to f
 OS: Android 5.0 to Android 14+.
 
 Permissions: Requires standard permissions depending on features used.
+
+> Some features in the Builder section are not working, but they will be fixed soon.
 
 
 ## Installation
