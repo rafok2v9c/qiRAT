@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|c:\\users\\rafoo\\desktop\\cpp\\window forms kodlarim\\qirat\\builderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:builderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:builderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:portform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:portform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\aboutform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:aboutform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\aboutform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:aboutform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:smsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:cameraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:builderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\callsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:callsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\applicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:applicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:cameraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:cameraform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\applicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:applicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\callsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:callsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:smsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:smsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}|q\u0131RAT.csproj|solutionrelative:portform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "builderform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.cs",
+              "RelativeDocumentMoniker": "builderform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.cs [Design]",
+              "RelativeToolTip": "builderform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T22:07:01.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "builderform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.cs",
+              "RelativeDocumentMoniker": "builderform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.cs",
+              "RelativeToolTip": "builderform.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:46:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AgIAAHcAAAAAAAAAAIAwwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-09T19:54:34.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.cs [Design]",
+              "RelativeToolTip": "mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:46:57.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.cs",
+              "RelativeToolTip": "mainform.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAuwN8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T18:47:11.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "aboutform2.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\aboutform2.cs",
+              "RelativeDocumentMoniker": "aboutform2.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\aboutform2.cs",
+              "RelativeToolTip": "aboutform2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:16:12.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "portform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.cs",
+              "RelativeDocumentMoniker": "portform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.cs",
+              "RelativeToolTip": "portform.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T23:21:18.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "portform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.cs",
+              "RelativeDocumentMoniker": "portform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.cs [Design]",
+              "RelativeToolTip": "portform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:00:37.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "aboutform2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\aboutform2.cs",
+              "RelativeDocumentMoniker": "aboutform2.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\aboutform2.cs [Design]",
+              "RelativeToolTip": "aboutform2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:14:07.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "socket.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\socket.cs",
+              "RelativeDocumentMoniker": "socket.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\socket.cs",
+              "RelativeToolTip": "socket.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAA2wDwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:57:25.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "smsform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.cs",
+              "RelativeDocumentMoniker": "smsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.cs [Design]",
+              "RelativeToolTip": "smsform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:34:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cameraform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.cs",
+              "RelativeDocumentMoniker": "cameraform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.cs [Design]",
+              "RelativeToolTip": "cameraform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:56:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "builderform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.Designer.cs",
+              "RelativeDocumentMoniker": "builderform.Designer.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\builderform.Designer.cs",
+              "RelativeToolTip": "builderform.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T23:19:08.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contactsform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\contactsform.cs",
+              "RelativeDocumentMoniker": "contactsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\q\u0131RAT\\contactsform.cs [Design]",
+              "RelativeToolTip": "..\\q\u0131RAT\\contactsform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:34:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "callsform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\callsform.cs",
+              "RelativeDocumentMoniker": "callsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\q\u0131RAT\\callsform.cs [Design]",
+              "RelativeToolTip": "..\\q\u0131RAT\\callsform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:55:51.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "applicationsform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\applicationsform.cs",
+              "RelativeDocumentMoniker": "applicationsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\q\u0131RAT\\applicationsform.cs [Design]",
+              "RelativeToolTip": "..\\q\u0131RAT\\applicationsform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:03:59.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:32:04.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cameraform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.cs",
+              "RelativeDocumentMoniker": "cameraform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.cs",
+              "RelativeToolTip": "cameraform.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:56:41.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "cameraform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.Designer.cs",
+              "RelativeDocumentMoniker": "cameraform.Designer.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\cameraform.Designer.cs",
+              "RelativeToolTip": "cameraform.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAawG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:27:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "applicationsform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\applicationsform.cs",
+              "RelativeDocumentMoniker": "applicationsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\applicationsform.cs",
+              "RelativeToolTip": "applicationsform.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:04:12.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "contactsform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\contactsform.cs",
+              "RelativeDocumentMoniker": "contactsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\contactsform.cs",
+              "RelativeToolTip": "contactsform.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:40:16.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "callsform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\callsform.cs",
+              "RelativeDocumentMoniker": "callsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\callsform.cs",
+              "RelativeToolTip": "callsform.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:09:40.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "smsform.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.cs",
+              "RelativeDocumentMoniker": "smsform.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.cs",
+              "RelativeToolTip": "smsform.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:35:55.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "smsform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.Designer.cs",
+              "RelativeDocumentMoniker": "smsform.Designer.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\smsform.Designer.cs",
+              "RelativeToolTip": "smsform.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:37:05.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mainform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.Designer.cs",
+              "RelativeDocumentMoniker": "mainform.Designer.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\mainform.Designer.cs",
+              "RelativeToolTip": "mainform.Designer.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAiwB0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:31:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "portform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.Designer.cs",
+              "RelativeDocumentMoniker": "portform.Designer.cs",
+              "ToolTip": "C:\\Users\\rafoo\\Desktop\\cpp\\Window Forms kodlarim\\qiRAT\\portform.Designer.cs",
+              "RelativeToolTip": "portform.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwEgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T21:00:51.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

