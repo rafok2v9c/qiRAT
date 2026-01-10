@@ -75,7 +75,7 @@ You must strictly obey all applicable local, state, and federal laws. DO NOT use
 ## Requirements
 
 - .NET Framework 4.5+(downloads automatically)
-- Java Runtime Environment (https://www.java.com/en/download/)
+- Java Development Kit (https://www.java.com/en/download/)
 
 ## Installation
 
