@@ -14,7 +14,7 @@ Bu layihədən istifadə edən hər bir şəxs yerli qanunvericiliyə tam riayə
   <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/logo.png?raw=true" alt="qiRAT Banner" width="200"/>
 </p>
 
-qıRAT is a simple Remote Administration Tool (RAT) developed specifically for educational usage, cybersecurity research, and malware analysis. It serves as a practical example of client-server architecture, TCP socket programming, and Android security testing.
+qıRAT is a simple Remote Administration Tool (RAT) developed specifically for educational usage, cybersecurity research, and malware analysis. It serves as a practical example of client-server architecture, TCP socket(unencrypted) programming, and Android security testing.
 
 This application was developed by a single person. The goal is to understand the Client Server structure in malicious software and to develop new protection tactics and write rules against them.
 
