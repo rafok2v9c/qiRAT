@@ -4,10 +4,6 @@
 > Müəllif bu proqram təminatının istənilən qanunsuz, etikaya zidd və ya icazəsiz istifadəsinə görə heç bir məsuliyyət daşımır və bu cür istifadəni qəti şəkildə dəstəkləmir.
 > Bu layihədən istifadə edən hər bir şəxs yerli qanunvericiliyə tam riayət etməyə, eləcə də istifadənin bütün hüquqi nəticələrinə görə şəxsi məsuliyyət daşımağa borcludur.
 
-![Stars](https://img.shields.io/github/stars/rafigk2v9c/qiRAT?style=social)
-![Forks](https://img.shields.io/github/forks/rafigk2v9c/qiRAT?style=social)
-![Issues](https://img.shields.io/github/issues/rafigk2v9c/qiRAT)
-
 # qıRAT
 
 <p align="center">
