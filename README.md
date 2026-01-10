@@ -25,15 +25,15 @@ You must strictly obey all applicable local, state, and federal laws. DO NOT use
 
 ## Features
 
-1. Camera Manager: Capture photos using the Front or Back camera with custom quality settings.
+- Camera Manager: Capture photos using the Front or Back camera with custom quality settings.
 
-2. Call Manager: Retrieve and view call logs (Incoming, Outgoing, Missed).
+- Call Manager: Retrieve and view call logs (Incoming, Outgoing, Missed).
 
-3. Contacts Manager: Access the device's contact list.
+- Contacts Manager: Access the device's contact list.
 
-4. SMS Manager: Read text messages.
+- SMS Manager: Read text messages.
 
-5. Applications: Access the device's applications list.
+- Applications: Access the device's applications list.
 
 > Some features in the Builder section are not working, but they will be fixed soon.
 
