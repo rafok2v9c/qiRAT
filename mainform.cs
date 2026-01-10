@@ -11,6 +11,9 @@ using System.Diagnostics;
 using System.IO;
 using Microsoft.VisualBasic.Logging;
 
+//The concept and idea for the qiRAT application belong entirely to Rafig Zarbaliyev!
+//If there is an error in the app or if you have any suggestions for additional features, please message me on Instagram(@rafok2v9c)
+
 namespace qıRAT
 {
     public partial class mainform : Form
