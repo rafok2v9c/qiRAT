@@ -48,6 +48,6 @@ Permissions: Requires standard permissions depending on features used.
 
 ### C2 Settings
 
-<img src="https://github.com/rafigk2v9c/APKdevastate/blob/master/ss/Screenshot_2.png" width="600" height="350" />
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_1.png?raw=true" width="600" height="350" />
 
 
