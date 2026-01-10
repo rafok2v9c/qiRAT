@@ -8,7 +8,7 @@ Layihənin bu cür istifadəsi Azərbaycan Respublikasının Cinayət Məcəllə
 Müəllif bu proqram təminatının istənilən qanunsuz, etikaya zidd və ya icazəsiz istifadəsinə görə heç bir məsuliyyət daşımır və bu cür istifadəni qəti şəkildə pisləyir.
 Bu layihədən istifadə edən hər bir şəxs yerli və beynəlxalq qanunvericiliyə tam riayət etməyə, eləcə də istifadənin bütün hüquqi nəticələrinə görə şəxsi məsuliyyət daşımağa borcludur.
 
-# qiRAT
+# qıRAT
 
 <p align="center">
   <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/logo.png?raw=true" alt="qiRAT Banner" width="200"/>
