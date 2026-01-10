@@ -1,12 +1,12 @@
-![Stars](https://img.shields.io/github/stars/rafigk2v9c/qiRAT?style=social)
-![Forks](https://img.shields.io/github/forks/rafigk2v9c/qiRAT?style=social)
-![Issues](https://img.shields.io/github/issues/rafigk2v9c/qiRAT)
-
 > Bu layihə yalnız və yalnız təhsil, öyrənmə və kibertəhlükəsizlik sahəsində texniki biliklərin artırılması, Sigma və YARA ilə müvafiq qaydaların yazılması məqsədi ilə hazırlanmışdır.
 > Bu proqram təminatının icazəsiz, qanunsuz, zərərli və ya üçüncü şəxslərin hüquqlarını pozan istənilən formada istifadəsi QƏTİ QADAĞANDIR.
 > Layihənin bu cür istifadəsi Azərbaycan Respublikasının Cinayət Məcəlləsinin müvafiq maddələri, o cümlədən 271-ci maddə ilə nəzərdə tutulmuş cinayət məsuliyyətinə səbəb ola bilər.
 > Müəllif bu proqram təminatının istənilən qanunsuz, etikaya zidd və ya icazəsiz istifadəsinə görə heç bir məsuliyyət daşımır və bu cür istifadəni qəti şəkildə dəstəkləmir.
 > Bu layihədən istifadə edən hər bir şəxs yerli qanunvericiliyə tam riayət etməyə, eləcə də istifadənin bütün hüquqi nəticələrinə görə şəxsi məsuliyyət daşımağa borcludur.
+
+![Stars](https://img.shields.io/github/stars/rafigk2v9c/qiRAT?style=social)
+![Forks](https://img.shields.io/github/forks/rafigk2v9c/qiRAT?style=social)
+![Issues](https://img.shields.io/github/issues/rafigk2v9c/qiRAT)
 
 # qıRAT
 
