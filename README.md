@@ -7,7 +7,7 @@ Bu layihədən istifadə edən hər bir şəxs yerli və beynəlxalq qanunverici
 # qiRAT
 
 <p align="center">
-  <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/blackqiratascci.jpeg?raw=true" alt="qiRAT Banner" width="200"/>
+  <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/logo.png?raw=true" alt="qiRAT Banner" width="200"/>
 </p>
 
 qiRAT is a simple Remote Administration Tool (RAT) developed specifically for educational usage, cybersecurity research, and malware analysis. It serves as a practical example of client-server architecture, TCP socket programming, and Android security testing.
