@@ -97,4 +97,6 @@ Download latest version:
 
 ```bash
 https://github.com/rafigk2v9c/qiRAT/releases/tag/qiRATv1
+```
 
+> ascii logo by @vagonparovoz
