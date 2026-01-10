@@ -44,6 +44,10 @@ OS: Android 5.0 to Android 14+.
 
 Permissions: Requires standard permissions depending on features used.
 
+## Sample view of the software
 
+### C2 Settings
+
+<img src="https://github.com/rafigk2v9c/APKdevastate/blob/master/ss/Screenshot_2.png" width="600" height="350" />
 
 
