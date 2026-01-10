@@ -50,4 +50,26 @@ Permissions: Requires standard permissions depending on features used.
 
 <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_1.png?raw=true" width="600" height="350" />
 
+### Main Menu
 
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_2.png?raw=true" width="600" height="350" />
+
+### Calls Manager
+
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_3.png?raw=true" width="600" height="350" />
+
+### SMS Manager
+
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_4.png?raw=true" width="600" height="350" />
+
+### Contacts Manager 
+
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_5.png?raw=true" width="600" height="350" />
+
+### Camera Manager 
+
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_6.png?raw=true" width="600" height="350" />
+
+### Applications
+
+<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_7.png?raw=true" width="600" height="350" />
