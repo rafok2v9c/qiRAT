@@ -13,3 +13,15 @@ PLEASE READ CAREFULLY BEFORE USE:
 This software is provided for EDUCATIONAL PURPOSES ONLY. The developer assumes NO LIABILITY and is NOT RESPONSIBLE for any misuse or damage caused by this program.
 You must strictly obey all applicable local, state, and federal laws. DO NOT use this software on devices you do not own or do not have explicit permission to test on. Malicious use without consent is illegal.
 
+# Features
+
+1. Camera Manager: Capture photos using the Front or Back camera with custom quality settings.
+
+2. Call Manager: Retrieve and view call logs (Incoming, Outgoing, Missed).
+
+3. Contacts Manager: Access the device's contact list.
+
+4. SMS Manager: Read text messages.
+
+5. Applications: Access the device's applications list.
+
