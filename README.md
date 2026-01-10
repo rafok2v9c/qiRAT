@@ -33,6 +33,9 @@ You must strictly obey all applicable local, state, and federal laws. DO NOT use
 
 5. Applications: Access the device's applications list.
 
+> Some features in the Builder section are not working, but they will be fixed soon.
+
+
 ## Sample view of the software
 
 ### C2 Settings
@@ -82,8 +85,6 @@ Dependencies: Java Runtime Environment (JRE) - Required for the APK Builder to f
 OS: Android 5.0 to Android 14+.
 
 Permissions: Requires standard permissions depending on features used.
-
-> Some features in the Builder section are not working, but they will be fixed soon.
 
 
 ## Installation
