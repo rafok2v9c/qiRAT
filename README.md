@@ -84,3 +84,6 @@ https://github.com/rafigk2v9c/qiRAT/releases/tag/qiRATv1
 ```
 
 > ascii logo by @vagonparovoz
+
+
+**Remember: With great power comes great responsibility. Use this tool ethically and legally.**
