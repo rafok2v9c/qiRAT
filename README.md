@@ -7,7 +7,7 @@
 # qıRAT
 
 <p align="center">
-  <img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/logo.png?raw=true" alt="qiRAT Banner" width="200"/>
+  <img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/logo.png?raw=true" alt="qiRAT Banner" width="200"/>
 </p>
 
 qıRAT is a simple Remote Administration Tool (RAT) developed specifically for educational usage, cybersecurity research, and malware analysis. It serves as a practical example of client-server architecture, TCP socket(unencrypted) programming, and Android security testing.
@@ -38,35 +38,35 @@ You must strictly obey all applicable local, state, and federal laws. DO NOT use
 
 ### C2 Settings
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_1.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_1.png?raw=true" width="600" height="350" />
 
 ### Main Menu
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_2.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_2.png?raw=true" width="600" height="350" />
 
 ### Calls Manager
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_3.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_3.png?raw=true" width="600" height="350" />
 
 ### SMS Manager
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_4.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_4.png?raw=true" width="600" height="350" />
 
 ### Contacts Manager 
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_5.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_5.png?raw=true" width="600" height="350" />
 
 ### Camera Manager 
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_6.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_6.png?raw=true" width="600" height="350" />
 
 ### Applications
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_7.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_7.png?raw=true" width="600" height="350" />
 
 ### APK Builder
 
-<img src="https://github.com/rafigk2v9c/qiRAT/blob/main/ss/Screenshot_11.png?raw=true" width="600" height="350" />
+<img src="https://github.com/rafok2v9c/qiRAT/blob/main/ss/Screenshot_11.png?raw=true" width="600" height="350" />
 
 ## Requirements
 
@@ -80,7 +80,7 @@ Please download the .rar file with the name of the application and then extract 
 Download latest version:
 
 ```bash
-https://github.com/rafigk2v9c/qiRAT/releases/tag/qiRATv1
+https://github.com/rafok2v9c/qiRAT/releases/tag/qiRATv1
 ```
 
 > ascii logo by @vagonparovoz
